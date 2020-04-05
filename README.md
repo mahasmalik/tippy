@@ -22,6 +22,7 @@ The following **optional** features are implemented:
 The following **additional** features are implemented:
 
 - [x] Additional view to look nicer
+- [x] Added an app icon image
 
 ## Video Walkthrough 
 
